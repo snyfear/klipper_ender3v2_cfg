@@ -1,0 +1,2 @@
+#Forcer les moteurs sur une position (passage de orange a bleu)
+SET_KINEMATIC_POSITION X=241 Y=227 Z=3.000
